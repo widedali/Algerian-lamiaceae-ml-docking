@@ -1,0 +1,4 @@
+comparison,pHash<=4,pHash<=6,pHash<=8,pHash<=10,near_dup_pairs (main),evaluation_images_affected
+test vs train,1,2,2,11,0,0
+val vs train,0,0,0,6,0,0
+test vs val,0,0,0,2,0,0

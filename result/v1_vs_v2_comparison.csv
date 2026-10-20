@@ -1,0 +1,7 @@
+experiment,setting,metric,v1_within,v1_cross,v2_within,v2_cross,cross_gain
+A,MedLeaves -> Medicinal Leaf Dataset,macro-F1,85.61,36.25,94.74,41.8,5.55
+A,Medicinal Leaf Dataset -> MedLeaves,macro-F1,73.68,45.11,84.21,46.16,1.05
+B,Mentha_pooled @ MedLeaves,recall,100.0,0.0,94.74,0.51,0.51
+B,Mentha_pooled @ Medicinal Leaf Dataset,recall,100.0,0.0,93.1,0.0,0.0
+B,Plectranthus_pooled @ MedLeaves,recall,100.0,10.44,94.74,16.48,6.04
+B,Plectranthus_pooled @ Medicinal Leaf Dataset,recall,100.0,12.1,96.3,25.81,13.71

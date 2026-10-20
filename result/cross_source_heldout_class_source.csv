@@ -1,0 +1,5 @@
+cls,heldout_source,n_heldout,n_in_test_for_cls,in_source_recall,in_source_CI,unseen_source_recall,unseen_CI,recall_drop,overall_test_acc,overall_bal_acc,overall_test_macroF1,sanity_ok,main_confusions
+Mentha_pooled,MedLeaves,195,19,94.74,[75.4-99.1],0.51,[0.1-2.8],94.22,90.31,93.72,89.2,True,Lamium_pooled=166; Lavandula_angustifolia=8; Plectranthus_pooled=7
+Mentha_pooled,Medicinal Leaf Dataset,127,29,93.1,[78.0-98.1],0.0,[0.0-2.9],93.1,90.23,93.05,89.6,True,Ocimum_pooled=83; Lamium_pooled=25; Plectranthus_pooled=19
+Plectranthus_pooled,MedLeaves,182,19,94.74,[75.4-99.1],16.48,[11.8-22.6],78.25,89.51,91.73,88.9,True,Ocimum_pooled=94; Mentha_pooled=29; Lamium_pooled=28
+Plectranthus_pooled,Medicinal Leaf Dataset,124,27,96.3,[81.7-99.3],25.81,[18.9-34.2],70.49,89.59,92.2,89.41,True,Mentha_pooled=52; Lamium_pooled=34; Ocimum_pooled=5

@@ -1,0 +1,3 @@
+train_source,test_source,classes,n_classes,n_train,n_within_test,n_cross_test,within_accuracy,within_balanced_acc,within_macro_f1,within_F1_CI,cross_accuracy,cross_balanced_acc,cross_macro_f1,cross_F1_CI,F1_drop,chance_acc
+MedLeaves,Medicinal Leaf Dataset,"Mentha_pooled, Plectranthus_pooled",2,263,57,251,94.74,94.77,94.74,[87.7-100.0],45.02,45.31,41.8,[35.2-47.5],52.93,50.0
+Medicinal Leaf Dataset,MedLeaves,"Mentha_pooled, Plectranthus_pooled",2,175,38,377,84.21,84.21,84.21,[71.7-94.7],50.66,51.72,46.16,[41.7-51.3],38.05,50.0
