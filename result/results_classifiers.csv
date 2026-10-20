@@ -1,5 +1,4 @@
 Classifier,Accuracy,Precision,Recall,F1,AUC
-,,,,,
 MLP_Optuna,91.8,91.99,91.8,91.88,99.13
 SVM_LinearSVC,91.46,91.76,91.46,91.59,98.88
 LightGBM_Optuna,91.38,91.56,91.38,91.45,99.06
